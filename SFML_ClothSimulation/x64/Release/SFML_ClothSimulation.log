@@ -1,0 +1,11 @@
+﻿  Source.cpp
+F:\yonatan\coding projects\SFML_ClothSimulation\SFML_ClothSimulation\ClothEngin.h(32,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\yonatan\coding projects\SFML_ClothSimulation\SFML_ClothSimulation\ClothEngin.h(115,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\yonatan\coding projects\SFML_ClothSimulation\SFML_ClothSimulation\ClothEngin.h(214,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+F:\yonatan\coding projects\SFML_ClothSimulation\SFML_ClothSimulation\ClothEngin.h(215,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  2 of 212 functions ( 0.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  SFML_ClothSimulation.vcxproj -> F:\yonatan\coding projects\SFML_ClothSimulation\x64\Release\SFML_ClothSimulation.exe
